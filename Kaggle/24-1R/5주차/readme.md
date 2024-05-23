@@ -1,6 +1,6 @@
 **Speech Recognition Challenge**
 
-💡 **6주차 주제: Sound data Classification (음성 데이터 분류)**
+💡 **5주차 주제: Sound data Classification (음성 데이터 분류)**
 
 **Dataset:** https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 
