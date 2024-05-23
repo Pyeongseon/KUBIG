@@ -6,13 +6,11 @@
 **커널 필사**:  [Introduction to Manual Feature Engineering](https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering)
                   [Stacking(sklearn-xgboost-catboost-lightgbm)](https://www.kaggle.com/code/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm)
 
-**1-1. 이론 공부 1 (배지원) : Boosting 기법**
+**1-1. 이론 공부 1 (배지원) : Boosting 기법** 링크 참조
 
 [Intro to Manual Feature Engineering](https://www.notion.so/Intro-to-Manual-Feature-Engineering-9d515abc11d34f71a324c6010f8b77bb?pvs=21)
 
-**1-2. 이론 공부 2 (정하연) : K-fold cross validation, LightGBM**
-
-[2. Binary Classification - Tabular Data 이론](https://www.notion.so/2-Binary-Classification-Tabular-Data-ab5570e7cdbd4875aca15d7e0c1e09b4?pvs=21)
+**1-2. 이론 공부 2 (정하연) : K-fold cross validation, LightGBM** 링크 참조
 
 [2. Binary Classification - Tabular Data 이론](https://www.notion.so/2-Binary-Classification-Tabular-Data-ab5570e7cdbd4875aca15d7e0c1e09b4?pvs=21)
 
