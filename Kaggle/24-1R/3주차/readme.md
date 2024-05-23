@@ -1,6 +1,6 @@
 **Statoil/C-CORE Iceberg Classifier Challenge**
 
-**4주차 주제: 이미지 binary classification (Transfer Learning, VGG16, Keras)
+**3주차 주제: 이미지 binary classification (Transfer Learning, VGG16, Keras)
 Dataset:**  [statoil-iceberg-classifier-challenge](https://www.kaggle.com/competitions/statoil-iceberg-classifier-challenge)
 
 **1-1. 이론 공부 1 (정하연) : Keras, ImageDataGenerator** 링크 참조
