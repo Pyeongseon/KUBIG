@@ -1,6 +1,8 @@
 **Home Credit Default Risk - Prediction**
-**2주차 주제: Boosting 기법 (LightGBM, XGBoost, CatBoost)
-Dataset:**  [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk)
+
+**2주차 주제: Boosting 기법 (LightGBM, XGBoost, CatBoost)**
+
+**Dataset:**  [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk)
 **커널 필사**:  [Introduction to Manual Feature Engineering](https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering)
                   [Stacking(sklearn-xgboost-catboost-lightgbm)](https://www.kaggle.com/code/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm)
 
