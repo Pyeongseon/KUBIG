@@ -1,6 +1,6 @@
 **Nuclei Image Segmentation**
 
-💡 **7주차 주제: Object Segmentation: Deep learning (이미지 처리) (RLE encoding) (Morphology: Erosion, Dilation, Opening, Closing)**
+💡 **6주차 주제: Object Segmentation: Deep learning (이미지 처리) (RLE encoding) (Morphology: Erosion, Dilation, Opening, Closing)**
 
 **Dataset**
 
