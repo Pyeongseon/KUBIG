@@ -1,6 +1,6 @@
-**7주차 주제: NLP 
+**7주차 주제: NLP** 
 1. Preprocessing (Tokenization, Stopwords, Stemming/Lemmatization, Vectorization) -TF-IDF, CountVectorizer(Bag of Words)
-2. Topic Modelling (LDA)**
+2. Topic Modelling (LDA)
 
 **Dataset**
 
