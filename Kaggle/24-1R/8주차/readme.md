@@ -11,11 +11,8 @@
 
 **1) Credit Card Fraud Detection System**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/35de452e-6f88-4acb-b090-3faae819cdba/331de169-a5c9-4206-ae4b-46440c8c376a/Untitled.png)
-
 - Real world: **고객의 신뢰를 망치지 않는 것이 중요, 사기는 탐지하되 고객의 편의성은 망치지 않는 것이 중요**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/35de452e-6f88-4acb-b090-3faae819cdba/0e565aea-ca18-41bd-9fae-312db77c861c/Untitled.png)
 
 **2) Credit Card Fraud Scenario**
 
@@ -75,13 +72,11 @@
 - 이유: validation set에 "data leakage"
 - 결과: precision, recall 이 좋은 것은 overfitting 때문이었음.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/35de452e-6f88-4acb-b090-3faae819cdba/89f052bd-6420-4542-a50c-d8a7d5c42e4d/Untitled.png)
 
 - 5 batch로 split -> 4/5가 training, 1/5가 validation
 - test set은 touch되면 안됨
 - cross validation 도중에 synthetic data creation을 하는 것은 괜찮음. Before은 안됨
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/35de452e-6f88-4acb-b090-3faae819cdba/594f658d-4f9b-42b3-86b3-d6aec3ac2887/Untitled.png)
     
     - cross validation 전에 SMOTE를 하면 안됨.
         - oversample을 한 상태에서 validation set을 정해버리면 training set에 validation set과 동일한 데이터가 있을 수 있음 ⇒ overfitting이 됨.
